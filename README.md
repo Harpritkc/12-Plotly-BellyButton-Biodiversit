@@ -10,3 +10,6 @@ These are the images we get as we rund the codes for BAR, Bubble & Pie Charts
 
 ## PIE CHART
 ![Pie Chart](https://user-images.githubusercontent.com/99519095/175196810-04a64dc0-f2cb-45ac-9371-89b1b65bc838.jpg)
+
+## Final Image from the Local Host
+![LocalHost](https://user-images.githubusercontent.com/99519095/175197614-89c15cd1-54fc-410f-88f6-9a206f99c508.png)
